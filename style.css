@@ -1,0 +1,33 @@
+body 
+{
+    background: #232323;
+    color: white;
+}
+.container
+{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.square
+{
+    background-color: purple;
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+}
+.strip
+{
+    text-align: center;
+    background: white;
+    color: black;
+    height: 30px;
+}
+.selected
+{
+    background: blue;
+}
+button
+{
+    height: 100%;
+}
